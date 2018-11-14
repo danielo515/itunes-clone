@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+    songs-server:
+        container_name: songs-server
+        image: songs-server:latest
+        ports:
+            - "3000:3000"
