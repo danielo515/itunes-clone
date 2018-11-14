@@ -34,5 +34,5 @@ EXPOSE 3000
 ENV DEBUG *
 ENV NODE_ENV production
 
-CMD [ "npm", "start" ]
+CMD [ "node", "./lib/start.js" ]
 

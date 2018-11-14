@@ -6,6 +6,9 @@
     "rules": {
         "hapi/no-arrowception": [
             0
+        ],
+        "hapi/hapi-scope-start": [
+            0
         ]
     }
 }

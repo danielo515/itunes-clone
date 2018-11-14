@@ -1,38 +1,38 @@
 [
-    {
-        "title": "song-1"
-    },
-    {
-        "title": "song-2"
-    },
-    {
-        "title": "song-3"
-    },
-    {
-        "title": "song-4"
-    },
-    {
-        "title": "song-5"
-    },
-    {
-        "title": "song-6"
-    },
-    {
-        "title": "song-7"
-    },
-    {
-        "title": "song-8"
-    },
-    {
-        "title": "song-9"
-    },
-    {
-        "title": "song-10"
-    },
-    {
-        "title": "song-11"
-    },
-    {
-        "title": "song-12"
-    }
+  {
+    "title": "dance",
+    "file": "bensound-dance.mp3",
+    "artist": "bensound",
+    "cover": "https://www.bensound.com/bensound-img/dance.jpg"
+  },
+  {
+    "title": "dreams",
+    "file": "bensound-dreams.mp3",
+    "artist": "bensound",
+    "cover": "https://www.bensound.com/bensound-img/dreams.jpg"
+  },
+  {
+    "title": "dubstep",
+    "file": "bensound-dubstep.mp3",
+    "artist": "bensound",
+    "cover": "https://www.bensound.com/bensound-img/dubstep.jpg"
+  },
+  {
+    "title": "endlessmotion",
+    "file": "bensound-endlessmotion.mp3",
+    "artist": "bensound",
+    "cover": "https://www.bensound.com/bensound-img/endlessmotion.jpg"
+  },
+  {
+    "title": "house",
+    "file": "bensound-house.mp3",
+    "artist": "bensound",
+    "cover": "https://www.bensound.com/bensound-img/house.jpg"
+  },
+  {
+    "title": "summer",
+    "file": "bensound-summer.mp3",
+    "artist": "bensound",
+    "cover": "https://www.bensound.com/bensound-img/summer.jpg"
+  }
 ]
