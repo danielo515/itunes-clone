@@ -1,38 +1,38 @@
 [
   {
-    "title": "dance",
+    "title": "Dance",
     "file": "bensound-dance.mp3",
-    "artist": "bensound",
+    "artist": "Bensound",
     "cover": "https://www.bensound.com/bensound-img/dance.jpg"
   },
   {
-    "title": "dreams",
+    "title": "Dreams",
     "file": "bensound-dreams.mp3",
-    "artist": "bensound",
+    "artist": "Bensound",
     "cover": "https://www.bensound.com/bensound-img/dreams.jpg"
   },
   {
-    "title": "dubstep",
+    "title": "Dubstep",
     "file": "bensound-dubstep.mp3",
-    "artist": "bensound",
+    "artist": "Bensound",
     "cover": "https://www.bensound.com/bensound-img/dubstep.jpg"
   },
   {
-    "title": "endlessmotion",
+    "title": "Endlessmotion",
     "file": "bensound-endlessmotion.mp3",
-    "artist": "bensound",
+    "artist": "Bensound",
     "cover": "https://www.bensound.com/bensound-img/endlessmotion.jpg"
   },
   {
-    "title": "house",
+    "title": "House",
     "file": "bensound-house.mp3",
-    "artist": "bensound",
+    "artist": "Bensound",
     "cover": "https://www.bensound.com/bensound-img/house.jpg"
   },
   {
-    "title": "summer",
+    "title": "Summer",
     "file": "bensound-summer.mp3",
-    "artist": "bensound",
+    "artist": "Bensound",
     "cover": "https://www.bensound.com/bensound-img/summer.jpg"
   }
 ]

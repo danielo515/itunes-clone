@@ -6,6 +6,7 @@ const writeFile = promisify(_writeFile);
 const readDir = promisify(readdir);
 const songs_path = path.resolve('./lib/assets/songs');
 const output_path = path.resolve('./lib/plugins/songs.json');
+const { capitalize } = require('lodash');
 
 /**
  * @function getFirstMatch
@@ -31,9 +32,9 @@ const main = async () => {
     const songs = (await readDir(songs_path))
         .filter((song) => song.endsWith('.mp3'))
         .map((song) => ({
-            title: getTitle(song)
+            title: capitalize(getTitle(song))
             , file: song
-            , artist: getArtist(song)
+            , artist: capitalize(getArtist(song))
             , cover: inferCover(getTitle(song))
         }));
 

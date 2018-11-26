@@ -47,6 +47,7 @@
     "eslint-config-hapi": "^10.1.0",
     "eslint-plugin-hapi": "^4.0.0",
     "lab": "^14.3.1",
+    "lodash": "^4.17.11",
     "nodemon": "^1.12.1"
   },
   "license": "MIT"
