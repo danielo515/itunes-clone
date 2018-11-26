@@ -39,7 +39,10 @@
     "joi": "^11.4.0",
     "lout": "^10.0.3",
     "mongodb": "^2.2.31",
-    "vision": "^4.1.1"
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "vision": "^4.1.1",
+    "ytdl-core": "^0.28.0"
   },
   "devDependencies": {
     "cross-var": "^1.0.3",
