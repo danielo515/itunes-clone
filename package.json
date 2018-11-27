@@ -41,6 +41,7 @@
     "mongodb": "^2.2.31",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
+    "spotify-web-api-node": "^4.0.0",
     "vision": "^4.1.1",
     "ytdl-core": "^0.28.0"
   },
