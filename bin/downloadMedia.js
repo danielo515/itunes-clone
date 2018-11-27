@@ -12,6 +12,11 @@ const saveSong = filename => stream => next =>
         .on('end', next)
         .on('data', () => process.stdout.write(":"))
         .on('close', () => console.log('Stream for ', filename, 'closed'))
+        .on('error', (err) => {
+            console.log('Skip ', filename)
+            console.error('Download error', err);
+            next()
+        })
         .pipe(Fs.createWriteStream(filename))
 
 const downloadSong = id => Ytdl(id, { filter: 'audioonly' });
@@ -20,9 +25,21 @@ const targetPath = './lib/assets/songs'
 const normalize = pipe(deburr, kebabCase, trim)
 const makeFileName = pipe(join('_'), normalize, str => Path.resolve(targetPath, str + '.mp3'))
 
-const fetchNext = (idx = 0) => {
-    if (idx >= songs.length) return console.log('Finished downloading songs')
+const nextSong = idx => {
+
+    if (idx >= songs.length) return { idx: null }
     const { youtube_id, id, title } = songs[idx]
+    const songInfo = { idx, id, title, youtube_id };
+    if (!youtube_id) {
+        console.log('skipping song ', songInfo, ' at index ', idx);
+        return nextSong(idx + 1)
+    }
+    return songInfo
+}
+
+const fetchNext = (index = 0) => {
+    const { id, title, youtube_id, idx } = nextSong(index);
+    if (idx === null) return console.log('Finished downloading songs')
     console.log('Downloading song \n', { idx, id, title, youtube_id });
     saveSong
         (makeFileName([id, title]))
@@ -30,4 +47,5 @@ const fetchNext = (idx = 0) => {
         (() => fetchNext(idx + 1))
 }
 
-fetchNext(0)
+const startAt = parseInt(process.argv[2], 10) || 0
+fetchNext(startAt)
