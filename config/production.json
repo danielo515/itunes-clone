@@ -3,5 +3,5 @@
     "port": 3001,
     "host": "0.0.0.0"
   },
-  "cdn": "http://localhost:3001/api/songs"
+  "cdn": "https://danielo.somecoolcdn/songs/"
 }

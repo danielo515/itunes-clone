@@ -1,0 +1,2892 @@
+{
+  "id": 2004,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2004-let-it-be.mp3"
+}, 
+{
+  "id": 2005,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2005-two-of-us.mp3"
+}, 
+{
+  "id": 2006,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2006-dig-a-pony.mp3"
+}, 
+{
+  "id": 2007,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2007-across-the-universe.mp3"
+}, 
+{
+  "id": 2008,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2008-i-me-mine.mp3"
+}, 
+{
+  "id": 2009,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2009-dig-it.mp3"
+}, 
+{
+  "id": 2,
+  "artist": "Dario G",
+  "artist_id": 14,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2-sunchyme.mp3"
+}, 
+{
+  "id": 6,
+  "artist": "Fleetwood Mac",
+  "artist_id": 16,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/6-never-going-back-again.mp3"
+}, 
+{
+  "id": 1080,
+  "artist": "Fleetwood Mac",
+  "artist_id": 16,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1080-go-your-own-way.mp3"
+}, 
+{
+  "id": 7,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/7-what-went-wrong.mp3"
+}, 
+{
+  "id": 209,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/209-whats-my-age-again.mp3"
+}, 
+{
+  "id": 238,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/238-feeling-this.mp3"
+}, 
+{
+  "id": 451,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/451-i-miss-you.mp3"
+}, 
+{
+  "id": 621,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/621-all-the-small-things.mp3"
+}, 
+{
+  "id": 670,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/670-first-date.mp3"
+}, 
+{
+  "id": 719,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/719-pretty-little-girl.mp3"
+}, 
+{
+  "id": 757,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/757-bored-to-death.mp3"
+}, 
+{
+  "id": 8,
+  "artist": "Bloc Party",
+  "artist_id": 18,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/8-i-still-remember.mp3"
+}, 
+{
+  "id": 9,
+  "artist": "The Temper Trap",
+  "artist_id": 19,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/9-sweet-disposition.mp3"
+}, 
+{
+  "id": 10,
+  "artist": "MGMT",
+  "artist_id": 20,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/10-kids.mp3"
+}, 
+{
+  "id": 66,
+  "artist": "MGMT",
+  "artist_id": 20,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/66-time-to-pretend.mp3"
+}, 
+{
+  "id": 1,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1-something-just-like-this.mp3"
+}, 
+{
+  "id": 11,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/11-hymn-for-the-weekend.mp3"
+}, 
+{
+  "id": 78,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/78-sky-full-of-stars.mp3"
+}, 
+{
+  "id": 296,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/296-fix-you.mp3"
+}, 
+{
+  "id": 457,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/457-brothers-sisters.mp3"
+}, 
+{
+  "id": 458,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/458-shiver.mp3"
+}, 
+{
+  "id": 459,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/459-the-scientist.mp3"
+}, 
+{
+  "id": 460,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/460-yellow.mp3"
+}, 
+{
+  "id": 461,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/461-trouble.mp3"
+}, 
+{
+  "id": 704,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/704-every-teardrop-is-a-waterfall.mp3"
+}, 
+{
+  "id": 1238,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1238-life-in-technicolor-ii.mp3"
+}, 
+{
+  "id": 1239,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1239-adventure-of-a-lifetime.mp3"
+}, 
+{
+  "id": 1366,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1366-magic.mp3"
+}, 
+{
+  "id": 1526,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1526-the-hardest-part.mp3"
+}, 
+{
+  "id": 1527,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1527-viva-la-vida.mp3"
+}, 
+{
+  "id": 1529,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1529-1-36.mp3"
+}, 
+{
+  "id": 1530,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1530-42.mp3"
+}, 
+{
+  "id": 1531,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1531-a-head-full-of-dreams.mp3"
+}, 
+{
+  "id": 1532,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1532-a-hopeful-transmission.mp3"
+}, 
+{
+  "id": 1534,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1534-a-message.mp3"
+}, 
+{
+  "id": 1535,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1535-a-rush-of-blood-to-the-head.mp3"
+}, 
+{
+  "id": 3002,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/3002-princess-of-china.mp3"
+}, 
+{
+  "id": 1,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1-something-just-like-this.mp3"
+}, 
+{
+  "id": 145,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/145-paris.mp3"
+}, 
+{
+  "id": 268,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/268-closer.mp3"
+}, 
+{
+  "id": 1089,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1089-sick-boy.mp3"
+}, 
+{
+  "id": 1118,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1118-somebody.mp3"
+}, 
+{
+  "id": 1148,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1148-dont-let-me-down.mp3"
+}, 
+{
+  "id": 1505,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1505-side-effects.mp3"
+}, 
+{
+  "id": 2223,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2223-this-feeling.mp3"
+}, 
+{
+  "id": 2277,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2277-selfie.mp3"
+}, 
+{
+  "id": 11,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/11-hymn-for-the-weekend.mp3"
+}, 
+{
+  "id": 1136,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1136-formation.mp3"
+}, 
+{
+  "id": 1154,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1154-hold-up.mp3"
+}, 
+{
+  "id": 1156,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1156-sorry.mp3"
+}, 
+{
+  "id": 1337,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1337-7-11.mp3"
+}, 
+{
+  "id": 1498,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1498-if-i-were-a-boy.mp3"
+}, 
+{
+  "id": 1694,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1694-sweet-dreams.mp3"
+}, 
+{
+  "id": 1697,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1697-runnin-lose-it-all.mp3"
+}, 
+{
+  "id": 1971,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1971-walk-on-water.mp3"
+}, 
+{
+  "id": 2044,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2044-freedom.mp3"
+}, 
+{
+  "id": 2123,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2123-telephone.mp3"
+}, 
+{
+  "id": 19,
+  "artist": "The Outfield",
+  "artist_id": 24,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/19-your-love.mp3"
+}, 
+{
+  "id": 205,
+  "artist": "Linkin Park",
+  "artist_id": 25,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/205-numb.mp3"
+}, 
+{
+  "id": 12,
+  "artist": "Fort Minor",
+  "artist_id": 26,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/12-remember-the-name.mp3"
+}, 
+{
+  "id": 13,
+  "artist": "Fort Minor",
+  "artist_id": 26,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/13-whered-you-go.mp3"
+}, 
+{
+  "id": 29,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/29-lose-yourself.mp3"
+}, 
+{
+  "id": 1927,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1927-just-dont-give-a-fuck.mp3"
+}, 
+{
+  "id": 1928,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1928-my-name-is.mp3"
+}, 
+{
+  "id": 1929,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1929-role-model.mp3"
+}, 
+{
+  "id": 1930,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1930-guilty-conscience.mp3"
+}, 
+{
+  "id": 1931,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1931-the-real-slim-shady.mp3"
+}, 
+{
+  "id": 1932,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1932-the-way-i-am.mp3"
+}, 
+{
+  "id": 1933,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1933-stan.mp3"
+}, 
+{
+  "id": 1934,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1934-im-back.mp3"
+}, 
+{
+  "id": 1935,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1935-hellbound.mp3"
+}, 
+{
+  "id": 1936,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1936-without-me.mp3"
+}, 
+{
+  "id": 1937,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1937-cleanin-out-my-closet.mp3"
+}, 
+{
+  "id": 1938,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1938-superman.mp3"
+}, 
+{
+  "id": 1939,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1939-sing-for-the-moment.mp3"
+}, 
+{
+  "id": 1940,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1940-business.mp3"
+}, 
+{
+  "id": 1941,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1941-one-day-at-a-time.mp3"
+}, 
+{
+  "id": 1942,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1942-just-lose-it.mp3"
+}, 
+{
+  "id": 1943,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1943-encore.mp3"
+}, 
+{
+  "id": 1944,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1944-like-toy-soldiers.mp3"
+}, 
+{
+  "id": 1945,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1945-mockingbird.mp3"
+}, 
+{
+  "id": 1946,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1946-ass-like-that.mp3"
+}, 
+{
+  "id": 1947,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1947-when-im-gone.mp3"
+}, 
+{
+  "id": 1948,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1948-shake-that.mp3"
+}, 
+{
+  "id": 1949,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1949-you-dont-know.mp3"
+}, 
+{
+  "id": 1950,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1950-jimmy-crack-corn.mp3"
+}, 
+{
+  "id": 1951,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1951-crack-a-bottle.mp3"
+}, 
+{
+  "id": 1952,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1952-we-made-you.mp3"
+}, 
+{
+  "id": 1953,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1953-3-a-m.mp3"
+}, 
+{
+  "id": 1954,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1954-old-times-sake.mp3"
+}, 
+{
+  "id": 1955,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1955-beautiful.mp3"
+}, 
+{
+  "id": 1956,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1956-hell-breaks-loose.mp3"
+}, 
+{
+  "id": 1957,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1957-elevator.mp3"
+}, 
+{
+  "id": 1958,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1958-not-afraid.mp3"
+}, 
+{
+  "id": 1959,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1959-love-the-way-you-lie.mp3"
+}, 
+{
+  "id": 1960,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1960-no-love.mp3"
+}, 
+{
+  "id": 1961,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1961-space-bound.mp3"
+}, 
+{
+  "id": 1962,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1962-berzerk.mp3"
+}, 
+{
+  "id": 1963,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1963-survival.mp3"
+}, 
+{
+  "id": 1964,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1964-rap-god.mp3"
+}, 
+{
+  "id": 1965,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1965-the-monster.mp3"
+}, 
+{
+  "id": 1966,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1966-headlights.mp3"
+}, 
+{
+  "id": 1967,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1967-guts-over-fear.mp3"
+}, 
+{
+  "id": 1968,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1968-detroit-vs-everybody.mp3"
+}, 
+{
+  "id": 1969,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1969-phenomenal.mp3"
+}, 
+{
+  "id": 1970,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1970-kings-never-die.mp3"
+}, 
+{
+  "id": 1971,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1971-walk-on-water.mp3"
+}, 
+{
+  "id": 1972,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1972-river.mp3"
+}, 
+{
+  "id": 1973,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1973-nowhere-fast.mp3"
+}, 
+{
+  "id": 1974,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1974-remind-me.mp3"
+}, 
+{
+  "id": 1975,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1975-fall.mp3"
+}, 
+{
+  "id": 1976,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1976-killshot.mp3"
+}, 
+{
+  "id": 1977,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1977-forgot-about-dre.mp3"
+}, 
+{
+  "id": 1978,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1978-dead-wrong.mp3"
+}, 
+{
+  "id": 1979,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1979-rock-city.mp3"
+}, 
+{
+  "id": 1980,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1980-welcome-2-detroit.mp3"
+}, 
+{
+  "id": 1981,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1981-smack-that.mp3"
+}, 
+{
+  "id": 1982,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1982-forever.mp3"
+}, 
+{
+  "id": 1983,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1983-drop-the-world.mp3"
+}, 
+{
+  "id": 1985,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1985-romans-revenge.mp3"
+}, 
+{
+  "id": 1986,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1986-thats-all-she-wrote.mp3"
+}, 
+{
+  "id": 1987,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1987-i-need-a-doctor.mp3"
+}, 
+{
+  "id": 1988,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1988-writers-block.mp3"
+}, 
+{
+  "id": 1989,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1989-throw-that.mp3"
+}, 
+{
+  "id": 1990,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1990-my-life.mp3"
+}, 
+{
+  "id": 1991,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1991-cmon-let-me-ride.mp3"
+}, 
+{
+  "id": 2205,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2205-the-ringer.mp3"
+}, 
+{
+  "id": 2211,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2211-not-alike.mp3"
+}, 
+{
+  "id": 2228,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2228-kamikaze.mp3"
+}, 
+{
+  "id": 2230,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2230-nice-guy.mp3"
+}, 
+{
+  "id": 2333,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2333-venom.mp3"
+}, 
+{
+  "id": 3054,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/3054-numb.mp3"
+}, 
+{
+  "id": 142,
+  "artist": "DAAN",
+  "artist_id": 28,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/142-housewife.mp3"
+}, 
+{
+  "id": 2163,
+  "artist": "DAAN",
+  "artist_id": 28,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2163-icon.mp3"
+}, 
+{
+  "id": 53,
+  "artist": "'Til Tuesday",
+  "artist_id": 30,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/53-voices-carry.mp3"
+}, 
+{
+  "id": 2651,
+  "artist": "Starley",
+  "artist_id": 32,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2651-call-on-me.mp3"
+}, 
+{
+  "id": 372,
+  "artist": ".38 Special",
+  "artist_id": 33,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/372-rockin-into-the-night.mp3"
+}, 
+{
+  "id": 373,
+  "artist": ".38 Special",
+  "artist_id": 33,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/373-hold-on-loosely.mp3"
+}, 
+{
+  "id": 374,
+  "artist": ".38 Special",
+  "artist_id": 33,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/374-fantasy-girl.mp3"
+}, 
+{
+  "id": 143,
+  "artist": "Fatboy Slim",
+  "artist_id": 37,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/143-right-here-right-now.mp3"
+}, 
+{
+  "id": 1617,
+  "artist": "Fatboy Slim",
+  "artist_id": 37,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1617-praise-you.mp3"
+}, 
+{
+  "id": 33,
+  "artist": "2 Belgen",
+  "artist_id": 39,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/33-lena.mp3"
+}, 
+{
+  "id": 57,
+  "artist": "2 Belgen",
+  "artist_id": 39,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/57-operation-coup-de-poing.mp3"
+}, 
+{
+  "id": 464,
+  "artist": "2 Belgen",
+  "artist_id": 39,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/464-queen-of-mine.mp3"
+}, 
+{
+  "id": 465,
+  "artist": "2 Belgen",
+  "artist_id": 39,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/465-quand-le-film-est-triste.mp3"
+}, 
+{
+  "id": 466,
+  "artist": "2 Belgen",
+  "artist_id": 39,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/466-soulsmasking.mp3"
+}, 
+{
+  "id": 421,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/421-fuckin-problems.mp3"
+}, 
+{
+  "id": 1143,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1143-no-problem.mp3"
+}, 
+{
+  "id": 2218,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2218-dedicate.mp3"
+}, 
+{
+  "id": 2773,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2773-all-me.mp3"
+}, 
+{
+  "id": 2935,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2935-bubble-butt.mp3"
+}, 
+{
+  "id": 3172,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/3172-x.mp3"
+}, 
+{
+  "id": 284,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/284-hard-knock-life-ghetto-anthem.mp3"
+}, 
+{
+  "id": 1134,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1134-the-story-of-o-j.mp3"
+}, 
+{
+  "id": 2022,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2022-frontin.mp3"
+}, 
+{
+  "id": 2279,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2279-empire-state-of-mind.mp3"
+}, 
+{
+  "id": 2981,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2981-umbrella.mp3"
+}, 
+{
+  "id": 3001,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/3001-talk-that-talk.mp3"
+}, 
+{
+  "id": 3022,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/3022-run-this-town.mp3"
+}, 
+{
+  "id": 3145,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/3145-bitch-dont-kill-my-vibe-remix.mp3"
+}, 
+{
+  "id": 1508,
+  "artist": "dEUS",
+  "artist_id": 44,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1508-what-we-talk-about-when-we-talk-about-love.mp3"
+}, 
+{
+  "id": 2790,
+  "artist": "dEUS",
+  "artist_id": 44,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/2790-instant-street.mp3"
+}, 
+{
+  "id": 79,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/79-all-of-the-lights.mp3"
+}, 
+{
+  "id": 280,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/280-wild-thoughts.mp3"
+}, 
+{
+  "id": 1108,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1108-loyalty.mp3"
+}, 
+{
+  "id": 1125,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1125-lemon.mp3"
+}, 
+{
+  "id": 1138,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1138-work.mp3"
+}, 
+{
+  "id": 1139,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1139-this-is-what-you-came-for.mp3"
+}, 
+{
+  "id": 1144,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1144-needed-me.mp3"
+}, 
+{
+  "id": 1160,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1160-too-good.mp3"
+}, 
+{
+  "id": 1163,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1163-famous.mp3"
+}, 
+{
+  "id": 1190,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "/mnt/c/Users/rdani/Documents/trabajo/GIT/aula-technical-test/Server/lib/assets/songs/1190-four-five-seconds.mp3"
+}, 
+"2004": {
+  "id": 2004,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "2004-let-it-be.mp3"
+}, 
+"2005": {
+  "id": 2005,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "2005-two-of-us.mp3"
+}, 
+"2006": {
+  "id": 2006,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "2006-dig-a-pony.mp3"
+}, 
+"2007": {
+  "id": 2007,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "2007-across-the-universe.mp3"
+}, 
+"2008": {
+  "id": 2008,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "2008-i-me-mine.mp3"
+}, 
+"2009": {
+  "id": 2009,
+  "artist": "Beatles",
+  "artist_id": 12,
+  "file": "2009-dig-it.mp3"
+}, 
+"2": {
+  "id": 2,
+  "artist": "Dario G",
+  "artist_id": 14,
+  "file": "2-sunchyme.mp3"
+}, 
+"6": {
+  "id": 6,
+  "artist": "Fleetwood Mac",
+  "artist_id": 16,
+  "file": "6-never-going-back-again.mp3"
+}, 
+"1080": {
+  "id": 1080,
+  "artist": "Fleetwood Mac",
+  "artist_id": 16,
+  "file": "1080-go-your-own-way.mp3"
+}, 
+"7": {
+  "id": 7,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "7-what-went-wrong.mp3"
+}, 
+"209": {
+  "id": 209,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "209-whats-my-age-again.mp3"
+}, 
+"238": {
+  "id": 238,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "238-feeling-this.mp3"
+}, 
+"451": {
+  "id": 451,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "451-i-miss-you.mp3"
+}, 
+"621": {
+  "id": 621,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "621-all-the-small-things.mp3"
+}, 
+"670": {
+  "id": 670,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "670-first-date.mp3"
+}, 
+"719": {
+  "id": 719,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "719-pretty-little-girl.mp3"
+}, 
+"757": {
+  "id": 757,
+  "artist": "Blink 182",
+  "artist_id": 17,
+  "file": "757-bored-to-death.mp3"
+}, 
+"8": {
+  "id": 8,
+  "artist": "Bloc Party",
+  "artist_id": 18,
+  "file": "8-i-still-remember.mp3"
+}, 
+"9": {
+  "id": 9,
+  "artist": "The Temper Trap",
+  "artist_id": 19,
+  "file": "9-sweet-disposition.mp3"
+}, 
+"10": {
+  "id": 10,
+  "artist": "MGMT",
+  "artist_id": 20,
+  "file": "10-kids.mp3"
+}, 
+"66": {
+  "id": 66,
+  "artist": "MGMT",
+  "artist_id": 20,
+  "file": "66-time-to-pretend.mp3"
+}, 
+"1": {
+  "id": 1,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1-something-just-like-this.mp3"
+}, 
+"11": {
+  "id": 11,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "11-hymn-for-the-weekend.mp3"
+}, 
+"78": {
+  "id": 78,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "78-sky-full-of-stars.mp3"
+}, 
+"296": {
+  "id": 296,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "296-fix-you.mp3"
+}, 
+"457": {
+  "id": 457,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "457-brothers-sisters.mp3"
+}, 
+"458": {
+  "id": 458,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "458-shiver.mp3"
+}, 
+"459": {
+  "id": 459,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "459-the-scientist.mp3"
+}, 
+"460": {
+  "id": 460,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "460-yellow.mp3"
+}, 
+"461": {
+  "id": 461,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "461-trouble.mp3"
+}, 
+"704": {
+  "id": 704,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "704-every-teardrop-is-a-waterfall.mp3"
+}, 
+"1238": {
+  "id": 1238,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1238-life-in-technicolor-ii.mp3"
+}, 
+"1239": {
+  "id": 1239,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1239-adventure-of-a-lifetime.mp3"
+}, 
+"1366": {
+  "id": 1366,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1366-magic.mp3"
+}, 
+"1526": {
+  "id": 1526,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1526-the-hardest-part.mp3"
+}, 
+"1527": {
+  "id": 1527,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1527-viva-la-vida.mp3"
+}, 
+"1529": {
+  "id": 1529,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1529-1-36.mp3"
+}, 
+"1530": {
+  "id": 1530,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1530-42.mp3"
+}, 
+"1531": {
+  "id": 1531,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1531-a-head-full-of-dreams.mp3"
+}, 
+"1532": {
+  "id": 1532,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1532-a-hopeful-transmission.mp3"
+}, 
+"1534": {
+  "id": 1534,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1534-a-message.mp3"
+}, 
+"1535": {
+  "id": 1535,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "1535-a-rush-of-blood-to-the-head.mp3"
+}, 
+"3002": {
+  "id": 3002,
+  "artist": "Coldplay",
+  "artist_id": 21,
+  "file": "3002-princess-of-china.mp3"
+}, 
+"1": {
+  "id": 1,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "1-something-just-like-this.mp3"
+}, 
+"145": {
+  "id": 145,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "145-paris.mp3"
+}, 
+"268": {
+  "id": 268,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "268-closer.mp3"
+}, 
+"1089": {
+  "id": 1089,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "1089-sick-boy.mp3"
+}, 
+"1118": {
+  "id": 1118,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "1118-somebody.mp3"
+}, 
+"1148": {
+  "id": 1148,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "1148-dont-let-me-down.mp3"
+}, 
+"1505": {
+  "id": 1505,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "1505-side-effects.mp3"
+}, 
+"2223": {
+  "id": 2223,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "2223-this-feeling.mp3"
+}, 
+"2277": {
+  "id": 2277,
+  "artist": "The Chainsmokers",
+  "artist_id": 22,
+  "file": "2277-selfie.mp3"
+}, 
+"11": {
+  "id": 11,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "11-hymn-for-the-weekend.mp3"
+}, 
+"1136": {
+  "id": 1136,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "1136-formation.mp3"
+}, 
+"1154": {
+  "id": 1154,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "1154-hold-up.mp3"
+}, 
+"1156": {
+  "id": 1156,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "1156-sorry.mp3"
+}, 
+"1337": {
+  "id": 1337,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "1337-7-11.mp3"
+}, 
+"1498": {
+  "id": 1498,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "1498-if-i-were-a-boy.mp3"
+}, 
+"1694": {
+  "id": 1694,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "1694-sweet-dreams.mp3"
+}, 
+"1697": {
+  "id": 1697,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "1697-runnin-lose-it-all.mp3"
+}, 
+"1971": {
+  "id": 1971,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "1971-walk-on-water.mp3"
+}, 
+"2044": {
+  "id": 2044,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "2044-freedom.mp3"
+}, 
+"2123": {
+  "id": 2123,
+  "artist": "Beyoncé",
+  "artist_id": 23,
+  "file": "2123-telephone.mp3"
+}, 
+"19": {
+  "id": 19,
+  "artist": "The Outfield",
+  "artist_id": 24,
+  "file": "19-your-love.mp3"
+}, 
+"205": {
+  "id": 205,
+  "artist": "Linkin Park",
+  "artist_id": 25,
+  "file": "205-numb.mp3"
+}, 
+"12": {
+  "id": 12,
+  "artist": "Fort Minor",
+  "artist_id": 26,
+  "file": "12-remember-the-name.mp3"
+}, 
+"13": {
+  "id": 13,
+  "artist": "Fort Minor",
+  "artist_id": 26,
+  "file": "13-whered-you-go.mp3"
+}, 
+"29": {
+  "id": 29,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "29-lose-yourself.mp3"
+}, 
+"1927": {
+  "id": 1927,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1927-just-dont-give-a-fuck.mp3"
+}, 
+"1928": {
+  "id": 1928,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1928-my-name-is.mp3"
+}, 
+"1929": {
+  "id": 1929,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1929-role-model.mp3"
+}, 
+"1930": {
+  "id": 1930,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1930-guilty-conscience.mp3"
+}, 
+"1931": {
+  "id": 1931,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1931-the-real-slim-shady.mp3"
+}, 
+"1932": {
+  "id": 1932,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1932-the-way-i-am.mp3"
+}, 
+"1933": {
+  "id": 1933,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1933-stan.mp3"
+}, 
+"1934": {
+  "id": 1934,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1934-im-back.mp3"
+}, 
+"1935": {
+  "id": 1935,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1935-hellbound.mp3"
+}, 
+"1936": {
+  "id": 1936,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1936-without-me.mp3"
+}, 
+"1937": {
+  "id": 1937,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1937-cleanin-out-my-closet.mp3"
+}, 
+"1938": {
+  "id": 1938,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1938-superman.mp3"
+}, 
+"1939": {
+  "id": 1939,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1939-sing-for-the-moment.mp3"
+}, 
+"1940": {
+  "id": 1940,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1940-business.mp3"
+}, 
+"1941": {
+  "id": 1941,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1941-one-day-at-a-time.mp3"
+}, 
+"1942": {
+  "id": 1942,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1942-just-lose-it.mp3"
+}, 
+"1943": {
+  "id": 1943,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1943-encore.mp3"
+}, 
+"1944": {
+  "id": 1944,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1944-like-toy-soldiers.mp3"
+}, 
+"1945": {
+  "id": 1945,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1945-mockingbird.mp3"
+}, 
+"1946": {
+  "id": 1946,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1946-ass-like-that.mp3"
+}, 
+"1947": {
+  "id": 1947,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1947-when-im-gone.mp3"
+}, 
+"1948": {
+  "id": 1948,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1948-shake-that.mp3"
+}, 
+"1949": {
+  "id": 1949,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1949-you-dont-know.mp3"
+}, 
+"1950": {
+  "id": 1950,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1950-jimmy-crack-corn.mp3"
+}, 
+"1951": {
+  "id": 1951,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1951-crack-a-bottle.mp3"
+}, 
+"1952": {
+  "id": 1952,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1952-we-made-you.mp3"
+}, 
+"1953": {
+  "id": 1953,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1953-3-a-m.mp3"
+}, 
+"1954": {
+  "id": 1954,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1954-old-times-sake.mp3"
+}, 
+"1955": {
+  "id": 1955,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1955-beautiful.mp3"
+}, 
+"1956": {
+  "id": 1956,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1956-hell-breaks-loose.mp3"
+}, 
+"1957": {
+  "id": 1957,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1957-elevator.mp3"
+}, 
+"1958": {
+  "id": 1958,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1958-not-afraid.mp3"
+}, 
+"1959": {
+  "id": 1959,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1959-love-the-way-you-lie.mp3"
+}, 
+"1960": {
+  "id": 1960,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1960-no-love.mp3"
+}, 
+"1961": {
+  "id": 1961,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1961-space-bound.mp3"
+}, 
+"1962": {
+  "id": 1962,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1962-berzerk.mp3"
+}, 
+"1963": {
+  "id": 1963,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1963-survival.mp3"
+}, 
+"1964": {
+  "id": 1964,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1964-rap-god.mp3"
+}, 
+"1965": {
+  "id": 1965,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1965-the-monster.mp3"
+}, 
+"1966": {
+  "id": 1966,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1966-headlights.mp3"
+}, 
+"1967": {
+  "id": 1967,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1967-guts-over-fear.mp3"
+}, 
+"1968": {
+  "id": 1968,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1968-detroit-vs-everybody.mp3"
+}, 
+"1969": {
+  "id": 1969,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1969-phenomenal.mp3"
+}, 
+"1970": {
+  "id": 1970,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1970-kings-never-die.mp3"
+}, 
+"1971": {
+  "id": 1971,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1971-walk-on-water.mp3"
+}, 
+"1972": {
+  "id": 1972,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1972-river.mp3"
+}, 
+"1973": {
+  "id": 1973,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1973-nowhere-fast.mp3"
+}, 
+"1974": {
+  "id": 1974,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1974-remind-me.mp3"
+}, 
+"1975": {
+  "id": 1975,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1975-fall.mp3"
+}, 
+"1976": {
+  "id": 1976,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1976-killshot.mp3"
+}, 
+"1977": {
+  "id": 1977,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1977-forgot-about-dre.mp3"
+}, 
+"1978": {
+  "id": 1978,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1978-dead-wrong.mp3"
+}, 
+"1979": {
+  "id": 1979,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1979-rock-city.mp3"
+}, 
+"1980": {
+  "id": 1980,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1980-welcome-2-detroit.mp3"
+}, 
+"1981": {
+  "id": 1981,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1981-smack-that.mp3"
+}, 
+"1982": {
+  "id": 1982,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1982-forever.mp3"
+}, 
+"1983": {
+  "id": 1983,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1983-drop-the-world.mp3"
+}, 
+"1985": {
+  "id": 1985,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1985-romans-revenge.mp3"
+}, 
+"1986": {
+  "id": 1986,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1986-thats-all-she-wrote.mp3"
+}, 
+"1987": {
+  "id": 1987,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1987-i-need-a-doctor.mp3"
+}, 
+"1988": {
+  "id": 1988,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1988-writers-block.mp3"
+}, 
+"1989": {
+  "id": 1989,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1989-throw-that.mp3"
+}, 
+"1990": {
+  "id": 1990,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1990-my-life.mp3"
+}, 
+"1991": {
+  "id": 1991,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "1991-cmon-let-me-ride.mp3"
+}, 
+"2205": {
+  "id": 2205,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "2205-the-ringer.mp3"
+}, 
+"2211": {
+  "id": 2211,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "2211-not-alike.mp3"
+}, 
+"2228": {
+  "id": 2228,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "2228-kamikaze.mp3"
+}, 
+"2230": {
+  "id": 2230,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "2230-nice-guy.mp3"
+}, 
+"2333": {
+  "id": 2333,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "2333-venom.mp3"
+}, 
+"3054": {
+  "id": 3054,
+  "artist": "Eminem",
+  "artist_id": 27,
+  "file": "3054-numb.mp3"
+}, 
+"142": {
+  "id": 142,
+  "artist": "DAAN",
+  "artist_id": 28,
+  "file": "142-housewife.mp3"
+}, 
+"2163": {
+  "id": 2163,
+  "artist": "DAAN",
+  "artist_id": 28,
+  "file": "2163-icon.mp3"
+}, 
+"53": {
+  "id": 53,
+  "artist": "'Til Tuesday",
+  "artist_id": 30,
+  "file": "53-voices-carry.mp3"
+}, 
+"2651": {
+  "id": 2651,
+  "artist": "Starley",
+  "artist_id": 32,
+  "file": "2651-call-on-me.mp3"
+}, 
+"372": {
+  "id": 372,
+  "artist": ".38 Special",
+  "artist_id": 33,
+  "file": "372-rockin-into-the-night.mp3"
+}, 
+"373": {
+  "id": 373,
+  "artist": ".38 Special",
+  "artist_id": 33,
+  "file": "373-hold-on-loosely.mp3"
+}, 
+"374": {
+  "id": 374,
+  "artist": ".38 Special",
+  "artist_id": 33,
+  "file": "374-fantasy-girl.mp3"
+}, 
+"143": {
+  "id": 143,
+  "artist": "Fatboy Slim",
+  "artist_id": 37,
+  "file": "143-right-here-right-now.mp3"
+}, 
+"1617": {
+  "id": 1617,
+  "artist": "Fatboy Slim",
+  "artist_id": 37,
+  "file": "1617-praise-you.mp3"
+}, 
+"33": {
+  "id": 33,
+  "artist": "2 Belgen",
+  "artist_id": 39,
+  "file": "33-lena.mp3"
+}, 
+"57": {
+  "id": 57,
+  "artist": "2 Belgen",
+  "artist_id": 39,
+  "file": "57-operation-coup-de-poing.mp3"
+}, 
+"464": {
+  "id": 464,
+  "artist": "2 Belgen",
+  "artist_id": 39,
+  "file": "464-queen-of-mine.mp3"
+}, 
+"465": {
+  "id": 465,
+  "artist": "2 Belgen",
+  "artist_id": 39,
+  "file": "465-quand-le-film-est-triste.mp3"
+}, 
+"466": {
+  "id": 466,
+  "artist": "2 Belgen",
+  "artist_id": 39,
+  "file": "466-soulsmasking.mp3"
+}, 
+"421": {
+  "id": 421,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "421-fuckin-problems.mp3"
+}, 
+"1143": {
+  "id": 1143,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "1143-no-problem.mp3"
+}, 
+"2218": {
+  "id": 2218,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "2218-dedicate.mp3"
+}, 
+"2773": {
+  "id": 2773,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "2773-all-me.mp3"
+}, 
+"2935": {
+  "id": 2935,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "2935-bubble-butt.mp3"
+}, 
+"3172": {
+  "id": 3172,
+  "artist": "2 Chainz",
+  "artist_id": 40,
+  "file": "3172-x.mp3"
+}, 
+"284": {
+  "id": 284,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "284-hard-knock-life-ghetto-anthem.mp3"
+}, 
+"1134": {
+  "id": 1134,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "1134-the-story-of-o-j.mp3"
+}, 
+"2022": {
+  "id": 2022,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "2022-frontin.mp3"
+}, 
+"2279": {
+  "id": 2279,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "2279-empire-state-of-mind.mp3"
+}, 
+"2981": {
+  "id": 2981,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "2981-umbrella.mp3"
+}, 
+"3001": {
+  "id": 3001,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "3001-talk-that-talk.mp3"
+}, 
+"3022": {
+  "id": 3022,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "3022-run-this-town.mp3"
+}, 
+"3145": {
+  "id": 3145,
+  "artist": "Jay-Z",
+  "artist_id": 42,
+  "file": "3145-bitch-dont-kill-my-vibe-remix.mp3"
+}, 
+"1508": {
+  "id": 1508,
+  "artist": "dEUS",
+  "artist_id": 44,
+  "file": "1508-what-we-talk-about-when-we-talk-about-love.mp3"
+}, 
+"2790": {
+  "id": 2790,
+  "artist": "dEUS",
+  "artist_id": 44,
+  "file": "2790-instant-street.mp3"
+}, 
+"79": {
+  "id": 79,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "79-all-of-the-lights.mp3"
+}, 
+"280": {
+  "id": 280,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "280-wild-thoughts.mp3"
+}, 
+"1108": {
+  "id": 1108,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1108-loyalty.mp3"
+}, 
+"1125": {
+  "id": 1125,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1125-lemon.mp3"
+}, 
+"1138": {
+  "id": 1138,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1138-work.mp3"
+}, 
+"1139": {
+  "id": 1139,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1139-this-is-what-you-came-for.mp3"
+}, 
+"1144": {
+  "id": 1144,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1144-needed-me.mp3"
+}, 
+"1160": {
+  "id": 1160,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1160-too-good.mp3"
+}, 
+"1163": {
+  "id": 1163,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1163-famous.mp3"
+}, 
+"1190": {
+  "id": 1190,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1190-four-five-seconds.mp3"
+}, 
+"1330": {
+  "id": 1330,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1330-bitch-better-have-my-money.mp3"
+}, 
+"1442": {
+  "id": 1442,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1442-diamonds.mp3"
+}, 
+"1906": {
+  "id": 1906,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1906-dont-stop-the-music.mp3"
+}, 
+"1959": {
+  "id": 1959,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1959-love-the-way-you-lie.mp3"
+}, 
+"1965": {
+  "id": 1965,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "1965-the-monster.mp3"
+}, 
+"2021": {
+  "id": 2021,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2021-we-found-love.mp3"
+}, 
+"2164": {
+  "id": 2164,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2164-man-down.mp3"
+}, 
+"2975": {
+  "id": 2975,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2975-pon-de-replay.mp3"
+}, 
+"2976": {
+  "id": 2976,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2976-if-its-lovin-that-you-want.mp3"
+}, 
+"2977": {
+  "id": 2977,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2977-sos.mp3"
+}, 
+"2978": {
+  "id": 2978,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2978-unfaithful.mp3"
+}, 
+"2979": {
+  "id": 2979,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2979-we-ride.mp3"
+}, 
+"2980": {
+  "id": 2980,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2980-break-it-off.mp3"
+}, 
+"2981": {
+  "id": 2981,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2981-umbrella.mp3"
+}, 
+"2982": {
+  "id": 2982,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2982-shut-up-and-drive.mp3"
+}, 
+"2983": {
+  "id": 2983,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2983-hate-that-i-love-you.mp3"
+}, 
+"2984": {
+  "id": 2984,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2984-take-a-bow.mp3"
+}, 
+"2985": {
+  "id": 2985,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2985-disturbia.mp3"
+}, 
+"2986": {
+  "id": 2986,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2986-rehab.mp3"
+}, 
+"2987": {
+  "id": 2987,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2987-live-your-life.mp3"
+}, 
+"2988": {
+  "id": 2988,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2988-russian-roulette.mp3"
+}, 
+"2989": {
+  "id": 2989,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2989-hard.mp3"
+}, 
+"2990": {
+  "id": 2990,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2990-wait-your-turn.mp3"
+}, 
+"2991": {
+  "id": 2991,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2991-rude-boy.mp3"
+}, 
+"2992": {
+  "id": 2992,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2992-rockstar-101.mp3"
+}, 
+"2993": {
+  "id": 2993,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2993-te-amo.mp3"
+}, 
+"2994": {
+  "id": 2994,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2994-only-girl-in-the-world.mp3"
+}, 
+"2995": {
+  "id": 2995,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2995-whats-my-name.mp3"
+}, 
+"2996": {
+  "id": 2996,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2996-raining-men.mp3"
+}, 
+"2997": {
+  "id": 2997,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2997-s-m.mp3"
+}, 
+"2998": {
+  "id": 2998,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2998-california-king-bed.mp3"
+}, 
+"2999": {
+  "id": 2999,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "2999-cheers-drink-to-that.mp3"
+}, 
+"3000": {
+  "id": 3000,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3000-you-da-one.mp3"
+}, 
+"3001": {
+  "id": 3001,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3001-talk-that-talk.mp3"
+}, 
+"3002": {
+  "id": 3002,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3002-princess-of-china.mp3"
+}, 
+"3003": {
+  "id": 3003,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3003-birthday-cake.mp3"
+}, 
+"3004": {
+  "id": 3004,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3004-birthday-cake.mp3"
+}, 
+"3005": {
+  "id": 3005,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3005-where-have-you-been.mp3"
+}, 
+"3006": {
+  "id": 3006,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3006-cockiness-love-it.mp3"
+}, 
+"3007": {
+  "id": 3007,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3007-cockiness-love-it.mp3"
+}, 
+"3008": {
+  "id": 3008,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3008-stay.mp3"
+}, 
+"3009": {
+  "id": 3009,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3009-pour-it-up.mp3"
+}, 
+"3010": {
+  "id": 3010,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3010-loveeeeeee-song.mp3"
+}, 
+"3011": {
+  "id": 3011,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3011-right-now.mp3"
+}, 
+"3012": {
+  "id": 3012,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3012-what-now.mp3"
+}, 
+"3013": {
+  "id": 3013,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3013-jump.mp3"
+}, 
+"3014": {
+  "id": 3014,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3014-towards-the-sun.mp3"
+}, 
+"3015": {
+  "id": 3015,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3015-american-oxygen.mp3"
+}, 
+"3016": {
+  "id": 3016,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3016-kiss-it-better.mp3"
+}, 
+"3017": {
+  "id": 3017,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3017-nothing-is-promised.mp3"
+}, 
+"3018": {
+  "id": 3018,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3018-sledgehammer.mp3"
+}, 
+"3019": {
+  "id": 3019,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3019-love-on-the-brain.mp3"
+}, 
+"3020": {
+  "id": 3020,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3020-roll-it.mp3"
+}, 
+"3021": {
+  "id": 3021,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3021-if-i-never-see-your-face-again.mp3"
+}, 
+"3022": {
+  "id": 3022,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3022-run-this-town.mp3"
+}, 
+"3023": {
+  "id": 3023,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3023-whos-that-chick.mp3"
+}, 
+"3024": {
+  "id": 3024,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3024-fly.mp3"
+}, 
+"3025": {
+  "id": 3025,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3025-take-care.mp3"
+}, 
+"3026": {
+  "id": 3026,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3026-bad.mp3"
+}, 
+"3027": {
+  "id": 3027,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3027-cant-remember-to-forget-you.mp3"
+}, 
+"3028": {
+  "id": 3028,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3028-selfish.mp3"
+}, 
+"3029": {
+  "id": 3029,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3029-consideration.mp3"
+}, 
+"3030": {
+  "id": 3030,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3030-james-joint.mp3"
+}, 
+"3031": {
+  "id": 3031,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3031-desperado.mp3"
+}, 
+"3032": {
+  "id": 3032,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3032-woo.mp3"
+}, 
+"3033": {
+  "id": 3033,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3033-yeah-i-said-it.mp3"
+}, 
+"3034": {
+  "id": 3034,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3034-same-ol-mistakes.mp3"
+}, 
+"3035": {
+  "id": 3035,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3035-never-ending.mp3"
+}, 
+"3037": {
+  "id": 3037,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3037-higher.mp3"
+}, 
+"3038": {
+  "id": 3038,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3038-close-to-you.mp3"
+}, 
+"3039": {
+  "id": 3039,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3039-goodnight-gotham.mp3"
+}, 
+"3040": {
+  "id": 3040,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3040-pose.mp3"
+}, 
+"3041": {
+  "id": 3041,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3041-sex-with-me.mp3"
+}, 
+"3045": {
+  "id": 3045,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3045-we-all-want-love.mp3"
+}, 
+"3046": {
+  "id": 3046,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3046-drunk-on-love.mp3"
+}, 
+"3047": {
+  "id": 3047,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3047-roc-me-out.mp3"
+}, 
+"3048": {
+  "id": 3048,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3048-watch-n-learn.mp3"
+}, 
+"3049": {
+  "id": 3049,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3049-farewell.mp3"
+}, 
+"3050": {
+  "id": 3050,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3050-red-lipstick.mp3"
+}, 
+"3051": {
+  "id": 3051,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3051-do-ya-thang.mp3"
+}, 
+"3052": {
+  "id": 3052,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3052-fool-in-love.mp3"
+}, 
+"3053": {
+  "id": 3053,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3053-phresh-out-the-runway.mp3"
+}, 
+"3054": {
+  "id": 3054,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3054-numb.mp3"
+}, 
+"3055": {
+  "id": 3055,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3055-nobodys-business.mp3"
+}, 
+"3056": {
+  "id": 3056,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3056-love-without-tragedy-mother-mary.mp3"
+}, 
+"3057": {
+  "id": 3057,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3057-get-it-over-with.mp3"
+}, 
+"3058": {
+  "id": 3058,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3058-no-love-allowed.mp3"
+}, 
+"3059": {
+  "id": 3059,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3059-lost-in-paradise.mp3"
+}, 
+"3060": {
+  "id": 3060,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3060-half-of-me.mp3"
+}, 
+"3063": {
+  "id": 3063,
+  "artist": "Rihanna",
+  "artist_id": 45,
+  "file": "3063-hurricane.mp3"
+}, 
+"1125": {
+  "id": 1125,
+  "artist": "N.E.R.D",
+  "artist_id": 46,
+  "file": "1125-lemon.mp3"
+}, 
+"2028": {
+  "id": 2028,
+  "artist": "N.E.R.D",
+  "artist_id": 46,
+  "file": "2028-my-drive-thru.mp3"
+}, 
+"2756": {
+  "id": 2756,
+  "artist": "N.E.R.D",
+  "artist_id": 46,
+  "file": "2756-she-wants-to-move.mp3"
+}, 
+"3111": {
+  "id": 3111,
+  "artist": "N.E.R.D",
+  "artist_id": 46,
+  "file": "3111-dont-dont-do-it.mp3"
+}, 
+"390": {
+  "id": 390,
+  "artist": "Gorillaz",
+  "artist_id": 47,
+  "file": "390-feel-good-inc.mp3"
+}, 
+"2001": {
+  "id": 2001,
+  "artist": "Gorillaz",
+  "artist_id": 47,
+  "file": "2001-humility.mp3"
+}, 
+"2482": {
+  "id": 2482,
+  "artist": "Gorillaz",
+  "artist_id": 47,
+  "file": "2482-on-melancholy-hill.mp3"
+}, 
+"2061": {
+  "id": 2061,
+  "artist": "Editors",
+  "artist_id": 48,
+  "file": "2061-darkness-at-the-door.mp3"
+}, 
+"2062": {
+  "id": 2062,
+  "artist": "Editors",
+  "artist_id": 48,
+  "file": "2062-hallelujah-so-low.mp3"
+}, 
+"2063": {
+  "id": 2063,
+  "artist": "Editors",
+  "artist_id": 48,
+  "file": "2063-magazine.mp3"
+}, 
+"2064": {
+  "id": 2064,
+  "artist": "Editors",
+  "artist_id": 48,
+  "file": "2064-all-the-kings.mp3"
+}, 
+"2065": {
+  "id": 2065,
+  "artist": "Editors",
+  "artist_id": 48,
+  "file": "2065-forgiveness.mp3"
+}, 
+"2066": {
+  "id": 2066,
+  "artist": "Editors",
+  "artist_id": 48,
+  "file": "2066-ocean-of-night.mp3"
+}, 
+"2067": {
+  "id": 2067,
+  "artist": "Editors",
+  "artist_id": 48,
+  "file": "2067-life-is-a-fear.mp3"
+}, 
+"2488": {
+  "id": 2488,
+  "artist": "Editors",
+  "artist_id": 48,
+  "file": "2488-cold.mp3"
+}, 
+"2755": {
+  "id": 2755,
+  "artist": "Editors",
+  "artist_id": 48,
+  "file": "2755-smokers-outside-the-hospital-doors.mp3"
+}, 
+"223": {
+  "id": 223,
+  "artist": "Stromae",
+  "artist_id": 49,
+  "file": "223-alors-on-danse.mp3"
+}, 
+"1223": {
+  "id": 1223,
+  "artist": "Stromae",
+  "artist_id": 49,
+  "file": "1223-defiler.mp3"
+}, 
+"1378": {
+  "id": 1378,
+  "artist": "Stromae",
+  "artist_id": 49,
+  "file": "1378-formidable.mp3"
+}, 
+"1387": {
+  "id": 1387,
+  "artist": "Stromae",
+  "artist_id": 49,
+  "file": "1387-papaoutai.mp3"
+}, 
+"1539": {
+  "id": 1539,
+  "artist": "Tamino",
+  "artist_id": 50,
+  "file": "1539-habibi.mp3"
+}, 
+"1836": {
+  "id": 1836,
+  "artist": "Tamino",
+  "artist_id": 50,
+  "file": "1836-tummy.mp3"
+}, 
+"1100": {
+  "id": 1100,
+  "artist": "Sam Smith",
+  "artist_id": 52,
+  "file": "1100-too-good-at-goodbyes.mp3"
+}, 
+"1321": {
+  "id": 1321,
+  "artist": "Sam Smith",
+  "artist_id": 52,
+  "file": "1321-im-not-the-only-one.mp3"
+}, 
+"1335": {
+  "id": 1335,
+  "artist": "Sam Smith",
+  "artist_id": 52,
+  "file": "1335-stay-with-me.mp3"
+}, 
+"1346": {
+  "id": 1346,
+  "artist": "Sam Smith",
+  "artist_id": 52,
+  "file": "1346-lay-me-down.mp3"
+}, 
+"1635": {
+  "id": 1635,
+  "artist": "Sam Smith",
+  "artist_id": 52,
+  "file": "1635-promises.mp3"
+}, 
+"1124": {
+  "id": 1124,
+  "artist": "Lorde",
+  "artist_id": 53,
+  "file": "1124-green-light.mp3"
+}, 
+"133": {
+  "id": 133,
+  "artist": "Arcade Fire",
+  "artist_id": 54,
+  "file": "133-rebellion-lies.mp3"
+}, 
+"1670": {
+  "id": 1670,
+  "artist": "4 Non Blondes",
+  "artist_id": 55,
+  "file": "1670-whats-up.mp3"
+}, 
+"342": {
+  "id": 342,
+  "artist": "21 Savage",
+  "artist_id": 58,
+  "file": "342-rockstar.mp3"
+}, 
+"1119": {
+  "id": 1119,
+  "artist": "21 Savage",
+  "artist_id": 58,
+  "file": "1119-bartier-cardi.mp3"
+}, 
+"1133": {
+  "id": 1133,
+  "artist": "21 Savage",
+  "artist_id": 58,
+  "file": "1133-bank-account.mp3"
+}, 
+"1941": {
+  "id": 1941,
+  "artist": "2Pac",
+  "artist_id": 59,
+  "file": "1941-one-day-at-a-time.mp3"
+}, 
+"2002": {
+  "id": 2002,
+  "artist": "2Pac",
+  "artist_id": 59,
+  "file": "2002-changes.mp3"
+}, 
+"2735": {
+  "id": 2735,
+  "artist": "2Pac",
+  "artist_id": 59,
+  "file": "2735-wanted-dead-or-alive.mp3"
+}, 
