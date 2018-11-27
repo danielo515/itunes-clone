@@ -46,6 +46,7 @@
     "ytdl-core": "^0.28.0"
   },
   "devDependencies": {
+    "bluebird": "^3.5.3",
     "cross-var": "^1.0.3",
     "eslint": "^4.8.0",
     "eslint-config-hapi": "^10.1.0",
