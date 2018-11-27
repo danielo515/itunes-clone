@@ -79,7 +79,7 @@ const main = async () => {
     console.info('Got artists list ', artists.length);
     // We are intentionally using reduce to fetch one by one and not abuse the public API
     const songs = await B.reduce(
-        artists.slice(0, 50),
+        artists.slice(0, 55),
         (all, artist) => MusicDemons.artist.getSongs(artist.id)
             .then(artistSongs => all.concat(artistSongs.map(injectArtist(artist)))),
         []);
