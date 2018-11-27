@@ -1,8 +1,14 @@
 {
-    "extends": "hapi",
+    "extends": [
+        "hapi",
+        "prettier"
+    ],
     "parserOptions": {
         "ecmaVersion": 8
     },
+    "plugins": [
+        "prettier"
+    ],
     "rules": {
         "hapi/no-arrowception": [
             0

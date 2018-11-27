@@ -3,3 +3,4 @@
 .idea
 .npmrc
 package-lock.json
+*.mp3
