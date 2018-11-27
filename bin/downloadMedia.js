@@ -13,6 +13,8 @@ const { join, pipe } = require('lodash/fp');
  * - creating a file with denormalized meta-data about songs that the original api does not provide
  * All the methods and functions here are intentionally sequential (download songs one by one, fetch artist songs artist by artist)
  * to not abuse the external APIs and avoid posible blocks
+ * Most of the stuff here can be done live on the backend, but it is better to do it during "compile time" because the data gathered here is
+ * unlikely to change
 */
 
 const targetPath = Path.resolve('./lib/assets/songs');
@@ -34,22 +36,26 @@ const downloadSong = id => Ytdl(id, { filter: 'audioonly' });
 
 const normalize = pipe(deburr, kebabCase, trim)
 const makeFileName = pipe(join('_'), normalize, str => Path.join(targetPath, str + '.mp3'))
-// This function is not strictly creating a proper json file. Instead it creates an array content that we can convert to a proper json file just adding
-// brakets at the start and end of the file. This is done because this script can be stopped at any time and we want to just be able to "resume"
-const appendMeta = song => Fs.appendFileSync(
+/* This function is not strictly creating a proper json file.
+Instead it creates the content that we can convert to a proper json file just adding the corresponding open tags
+at the start and end of the file. This is done because this script can be stopped at any time and we want to just be able to "resume".
+*/
+const appendMeta = ({ id, artist, artist_id, filename }) => Fs.appendFileSync(
     'songs-meta.json',
-    JSON.stringify(song, null, 2) + ', \n',
+    `"${id}": ${JSON.stringify({ id, artist, artist_id, file: Path.basename(filename) }, null, 2)}, \n`,
     'utf8')
 
 const nextSong = songs => idx => {
 
     if (idx >= songs.length) return { idx: null }
-    appendMeta(songs[idx])
-    const { youtube_id, id, title } = songs[idx]
-    const filename = makeFileName([id, title])
-    const songInfo = { idx, id, title, youtube_id, filename };
-    if (!youtube_id || existingSongs.has(Path.basename(filename))) {
-        console.log('skipping song ', songInfo, ' at index ', idx);
+    const song = songs[idx]
+    const filename = makeFileName([song.id, song.title])
+    const songInfo = { ...song, idx, filename };
+
+    appendMeta(songInfo)
+
+    if (!song.youtube_id || existingSongs.has(Path.basename(filename))) {
+        console.info('skipping song ', songInfo, ' at index ', idx);
         return nextSong(songs)(idx + 1)
     }
     return songInfo
@@ -70,17 +76,20 @@ const injectArtist = (artist) => (song) => ({ ...song, artist: artist.name, arti
 const main = async () => {
 
     const artists = await MusicDemons.artist.list();
-    console.info('Got artists list');
+    console.info('Got artists list ', artists.length);
     // We are intentionally using reduce to fetch one by one and not abuse the public API
     const songs = await B.reduce(
-        artists.slice(0, 12),
+        artists.slice(0, 50),
         (all, artist) => MusicDemons.artist.getSongs(artist.id)
             .then(artistSongs => all.concat(artistSongs.map(injectArtist(artist)))),
         []);
-    console.info('Got songs list');
+    console.info('Got songs list ', songs.length);
     const next = nextSong(songs)
     fetchSongs(next)(startAt)
 };
 
-// fetchNext(startAt)
-main().catch(() => process.exit(-1))
+main()
+    .catch(err => {
+        console.error('Failed while downloading', err)
+        process.exit(-1)
+    });
