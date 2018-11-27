@@ -72,6 +72,7 @@ const fetchSongs = getNext => (index = 0) => {
 }
 
 const startAt = parseInt(process.argv[2], 10) || 0
+const numbArtistToFetch = parseInt(process.argv[3], 10) || 20
 const injectArtist = (artist) => (song) => ({ ...song, artist: artist.name, artist_id: artist.id })
 const main = async () => {
 
@@ -79,13 +80,13 @@ const main = async () => {
     console.info('Got artists list ', artists.length);
     // We are intentionally using reduce to fetch one by one and not abuse the public API
     const songs = await B.reduce(
-        artists.slice(0, 55),
+        artists.slice(startAt, startAt + numbArtistToFetch),
         (all, artist) => MusicDemons.artist.getSongs(artist.id)
             .then(artistSongs => all.concat(artistSongs.map(injectArtist(artist)))),
         []);
     console.info('Got songs list ', songs.length);
     const next = nextSong(songs)
-    fetchSongs(next)(startAt)
+    fetchSongs(next)(0)
 };
 
 main()
