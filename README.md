@@ -57,6 +57,12 @@ You can provide one or two optional positional arguments, meaning:
 * The first one is the number of artist from the Music Demons API to skip, useful if you want to resume. Defaults to `0`
 * The second one is the number of artist to try to get songs of. Defaults to `20`
 
+## A note on caching
+
+This example uses caching capabilities of hapijs. This serves a double purpose: to respond to repetitive request faster and to avoid some unnecessary external API calls.
+By default it uses the in memory cache policy, wich is fine for development and very small projects to save some bytes.
+However, the actual savings comes from using a shared cache policy, like redis. This Backend does not include the necessary bits for such task, but it should be trivial to configure and develop it.
+
 ## Docker
 
 This service can run as a Docker container. To do this you need docker installed on your machine.
