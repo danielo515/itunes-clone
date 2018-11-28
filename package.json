@@ -1,6 +1,6 @@
 {
   "name": "songs-server",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A basic server to provide a list of songs and some files",
   "scripts": {
     "build": "cross-var docker build . -t $npm_package_config_imageName:$npm_package_version -t $npm_package_config_imageName:latest",

@@ -45,10 +45,11 @@ We do not use any API feature that requires user authorization, so this is all w
 During development some tools have been developed to help with the task of metadata collection and media gathering.
 All the scripts contained here are just for development and investigation purposes only.
 They are not meant for abuse any of the involved API or for getting content with copyright.
+The code of such scripts is not pretty , it is not very well documented and is intentionally synchronous and sequential, it should not be taken as example for anything at all.
 
 ### downloadMedia.js
 
-This script uses the Music Demons API to get a list of artist, a list of songs of those artists and then it tries to download them from youtube.
+This script uses the Music Demons API to get a list of artist, a list of songs of those artists and then it tries to download them from Youtube.
 Songs are downloaded one by one to avoid abuse, and Music Demons is fetched in series (not in parallel) to not stress the API.
 The quality of the resultant files is not guaranteed.
 To execute it just run  `node ./bin/downloadMedia.js` at the root of the repository.
