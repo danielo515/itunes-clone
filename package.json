@@ -10,6 +10,7 @@
     "test": "lab -a code -t 100 -v",
     "test-cov-html": "lab -a code -r html -o coverage.html",
     "start": "node lib/start.js",
+    "start-prod": "cross-env NODE_ENV=production node lib/start.js",
     "start-dev": "nodemon --inspect lib/start.js"
   },
   "main": "lib/index.js",
@@ -43,7 +44,6 @@
     "rc": "^1.2.8",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
-    "sanctuary": "^0.15.0",
     "spotify-web-api-node": "^4.0.0",
     "url-join": "^4.0.0",
     "vision": "^4.1.1",
@@ -51,6 +51,7 @@
   },
   "devDependencies": {
     "bluebird": "^3.5.3",
+    "cross-env": "^5.2.0",
     "cross-var": "^1.0.3",
     "eslint": "^4.8.0",
     "eslint-config-hapi": "^10.1.0",

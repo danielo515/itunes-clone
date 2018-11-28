@@ -3,5 +3,5 @@
     "port": 3001,
     "host": "0.0.0.0"
   },
-  "cdn": "https://danielo.somecoolcdn/songs/"
+  "cdn": "https://storage.googleapis.com/aula-tech-assignment.appspot.com/songs/"
 }
