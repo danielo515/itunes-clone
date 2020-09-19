@@ -40,7 +40,7 @@
     "joi": "^11.4.0",
     "lodash": "^4.17.11",
     "lout": "^10.0.3",
-    "mongodb": "^2.2.31",
+    "mongodb": "^3.6.2",
     "rc": "^1.2.8",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
